@@ -1,0 +1,17 @@
+50 Phelan Ave
+Ocean Campus
+San Francisco, CA 94112
+50 Phelan Ave
+San Francisco, CA 94112
+java.lang.IllegalArgumentException: California has invalid length for a state
+	at completehomework.Address.validateLengths(Address.java:41)
+	at completehomework.Address.<init>(Address.java:28)
+	at completehomework.AddressTest.main(AddressTest.java:12)
+java.lang.IllegalArgumentException:  has invalid length for a street
+	at completehomework.Address.validateLengths(Address.java:41)
+	at completehomework.Address.<init>(Address.java:28)
+	at completehomework.AddressTest.main(AddressTest.java:18)
+java.lang.IllegalArgumentException: 941121 has invalid length for a zip
+	at completehomework.Address.validateLengths(Address.java:41)
+	at completehomework.Address.<init>(Address.java:28)
+	at completehomework.AddressTest.main(AddressTest.java:24)
