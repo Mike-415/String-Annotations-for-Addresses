@@ -1,5 +1,5 @@
 # String-Annotations-for-Addresses
-A custom annotation for String fields in an Address Class called 'ProperLength'.  The length of characters are validated using Reflections
+A custom annotation called 'ProperLength' for String fields in the Address Class.  The length of characters are validated using reflections
 
 ## Requirements
 - [x] Write an annotation called ProperLength that is meant to describe the required length of String input. Here are the requirements for the annotation:
